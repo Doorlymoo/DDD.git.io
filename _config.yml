@@ -1,17 +1,13 @@
 theme: jekyll-theme-minimal
-<!DOCTYPE html>
-
+<!DOCTYPE html>  
+<html>
+<head>
+<title>首页</title>
+<meta charset='utf-8'>
 <a href="C:\Users\lenovo\Desktop\Personal Page\normalize\normalize.css"><img
   src="https://necolas.github.io/normalize.css/logo.svg" alt="Normalize Logo"
   width="80" height="80" align="right"></a>
   <style type="normalize\normalize.css">
-    
-  </style>
-  
-<html>
-<head>
-	<title>首页</title>
-	<meta charset='utf-8'>
 </head>
 <i class="web-font">Welcome 2 My WIKI</i>
 
